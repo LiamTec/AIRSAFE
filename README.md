@@ -32,21 +32,26 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
     mediante monitoreo continuo y recomendaciones personalizadas.
 ---
 ## 🛠️ Tecnologías y Herramientas
-**HARDWARE**
-- **ESP32**
-  Microcontrolador con conectividad WiFi integrada
-- **Sensor PMS5003**
-  Detección precisa de partículas PM1.0, PM2.5 y PM10
---
-**FIRMWARE ESP32**
-- **WiFiClient Library**
-  Notificaciones push y monitoreo remoto
-- **HTTPClient Library**
-  Comunicación HTTP/HTTPS con servidor
-- **ArduinoJson**
-  Serialización de datos del sensor
-- **LiquidCrystal_I2C**
-  Control de pantallas LCD
+
+### Hardware
+- **ESP32** – Microcontrolador con WiFi/Bluetooth integrado
+- **Sensor PMS5003** – Detección precisa de partículas PM1.0, PM2.5 y PM10  
+- **Pantallas LCD I2C** – Visualización clara de datos y estado del aire  
+- **LEDs RGB** – Indicadores visuales instantáneos por colores  
+
+### Firmware ESP32
+- **Arduino IDE/PlatformIO** – Entorno de desarrollo para ESP32
+- **WiFiClient Library** – Conectividad WiFi para transmisión de datos
+- **HTTPClient Library** – Comunicación HTTP/HTTPS con servidor
+- **ArduinoJson** – Serialización de datos del sensor
+- **LiquidCrystal_I2C** – Control de pantallas LCD
+
+### App Móvil
+- **React Native/Expo** – Desarrollo multiplataforma rápido (iOS/Android)
+- **Firebase SDK** – Integración con base de datos y notificaciones
+- **AsyncStorage** – Almacenamiento local de datos históricos
+- **React Native Push Notifications** – Manejo de alertas en segundo plano
+
 --
 **App Móvil**
 - **React Native/Expo**
