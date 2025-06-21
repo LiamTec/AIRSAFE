@@ -55,8 +55,9 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
 ---
 ## 👥 Equipo de Desarrollo
 - **Gonzales Rojas, Liam** : Desarrollo del sistema.
-- **Diego Quintana, Luis** : Desarrollador mobile.
+- **Diego Quintana, Luis** : Desarrollador mobile (backend).
 - **Baltazar Llique, Franklin** : Investigador, documentador y soporte.
+- **Rodriguez Ordoñez, Juan** : Desarrollador mobile (frontend).
 ---
 ## 🎯 Impacto y Beneficios
 - 🏥 **–60%** en consultas médicas por problemas respiratorios evitables  
