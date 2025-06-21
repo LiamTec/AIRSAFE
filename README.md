@@ -19,7 +19,6 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
 - **Previene antes que cure**
   Reduciendo gastos médicos y mejorando la calidad de vida familiar.
 - **WiFi + HTTP/HTTPS**
-- ****
 ---
 ## 🚀 Características Principales
 ** AirSafe** ofrece un sistema de monitoreo integral que:
@@ -47,9 +46,18 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
   Serialización de datos del sensor
 - **LiquidCrystal_I2C**
   Control de pantallas LCD
+**App Móvil**
+- **React Native/Expo**
+  Desarrollo multiplataforma rápido
+- **Firebase SDK**
+  Integración con base de datos y notificaciones
+- **AsyncStorage**
+  Almacenamiento local de datos históricos
+- **React Native Push Notifications**
+  Manejo de alertas en segundo plano
 ---
 ## 👥 Equipo de Desarrollo
--**Gonzales Rojas, Liam** : Desarrollo del sistema.
+- **Gonzales Rojas, Liam** : Desarrollo del sistema.
 - **Diego Quintana, Luis** : Desarrollador mobile.
 - **Baltazar Llique, Franklin** : Investigador, documentador y soporte.
 ---
