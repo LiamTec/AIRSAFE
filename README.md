@@ -21,7 +21,7 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
 - **WiFi + HTTP/HTTPS**
 ---
 ## 🚀 Características Principales
-** AirSafe** ofrece un sistema de monitoreo integral que:
+**AirSafe** ofrece un sistema de monitoreo integral que:
 - **Detecta partículas nocivas en tiempo real**
     (PM1.0, PM2.5, PM10) con precisión profesional.
 - **Alerta inmediatamente**
@@ -37,6 +37,7 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
   Microcontrolador con conectividad WiFi integrada
 - **Sensor PMS5003**
   Detección precisa de partículas PM1.0, PM2.5 y PM10
+--
 **FIRMWARE ESP32**
 - **WiFiClient Library**
   Notificaciones push y monitoreo remoto
@@ -46,6 +47,7 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
   Serialización de datos del sensor
 - **LiquidCrystal_I2C**
   Control de pantallas LCD
+--
 **App Móvil**
 - **React Native/Expo**
   Desarrollo multiplataforma rápido
