@@ -52,16 +52,6 @@ AirSafe es un sistema de monitoreo de calidad del aire en tiempo real diseñado 
 - **AsyncStorage** – Almacenamiento local de datos históricos
 - **React Native Push Notifications** – Manejo de alertas en segundo plano
 
---
-**App Móvil**
-- **React Native/Expo**
-  Desarrollo multiplataforma rápido
-- **Firebase SDK**
-  Integración con base de datos y notificaciones
-- **AsyncStorage**
-  Almacenamiento local de datos históricos
-- **React Native Push Notifications**
-  Manejo de alertas en segundo plano
 ---
 ## 👥 Equipo de Desarrollo
 - **Gonzales Rojas, Liam** : Desarrollo del sistema.
